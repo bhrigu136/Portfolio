@@ -38,7 +38,7 @@ export default function Home() {
               </p>
               <div style={{ marginTop: "1.5rem" }}>
                 <a
-                  href="/resume.pdf"
+                  href="/Tamanna_Resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-primary"

@@ -83,12 +83,20 @@ export default function Navbar() {
             </a>
           </li>
         ))}
-        <li className="nav-resume-li">
+        <li>
           <a
-            href="/resume.pdf"
+            href="/Tamanna_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
-            className="nav-resume-btn"
+            className="resume-nav-btn"
+            style={{
+              border: "1px solid var(--a2)",
+              padding: "0.38rem 0.85rem",
+              borderRadius: "6px",
+              color: "var(--a2)",
+              fontSize: ".82rem",
+              marginLeft: "0.5rem"
+            }}
           >
             Resume ↗
           </a>
