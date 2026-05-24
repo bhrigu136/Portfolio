@@ -38,11 +38,13 @@ export default function Home() {
               </p>
               <div style={{ marginTop: "1.5rem" }}>
                 <a
-                  href="mailto:bhrigunathtamanna@gmail.com"
+                  href="/resume.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="btn btn-primary"
                   style={{ fontSize: ".88rem" }}
                 >
-                  Request Resume ↗
+                  View Resume ↗
                 </a>
               </div>
             </FadeIn>

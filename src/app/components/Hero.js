@@ -264,8 +264,13 @@ export default function Hero() {
           >
             See My Projects
           </a>
-          <a href="mailto:bhrigunathtamanna@gmail.com" className="btn btn-outline">
-            Get In Touch
+          <a
+            href="/resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-outline"
+          >
+            View Resume ↗
           </a>
         </div>
         <CounterStats />

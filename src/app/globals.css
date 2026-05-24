@@ -179,6 +179,12 @@ footer strong{color:var(--text);}
 .back-to-top.show{opacity:1;visibility:visible;transform:none;}
 .back-to-top:hover{transform:translateY(-3px);box-shadow:0 8px 30px rgba(124,58,237,.6);}
 
+
+/* ===== NAVBAR RESUME BUTTON ===== */
+.nav-resume-btn{color:var(--a3)!important;font-weight:600;border:1px solid rgba(6,182,212,.38);padding:0.38rem 0.95rem;border-radius:6px;background:rgba(6,182,212,.06);transition:all .25s ease;display:inline-flex;align-items:center;text-decoration:none;}
+.nav-resume-btn:hover{background:rgba(6,182,212,.18)!important;border-color:var(--a3);transform:translateY(-1px);box-shadow:0 4px 15px rgba(6,182,212,.22);}
+.nav-resume-btn::after{display:none!important;}
+
 /* ===== RESPONSIVE ===== */
 @media(max-width:768px){
   .about-grid,.contact-grid{grid-template-columns:1fr;}

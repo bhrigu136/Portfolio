@@ -83,6 +83,16 @@ export default function Navbar() {
             </a>
           </li>
         ))}
+        <li className="nav-resume-li">
+          <a
+            href="/resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="nav-resume-btn"
+          >
+            Resume ↗
+          </a>
+        </li>
       </ul>
     </nav>
   );
