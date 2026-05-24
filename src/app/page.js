@@ -475,7 +475,7 @@ export default function Home() {
                   <span className="ic">⎋</span> github.com/bhrigu136
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/tamanna-bhrigunath-578b43190"
+                  href="https://www.linkedin.com/in/tamanna-bhrigunath"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="c-link"
