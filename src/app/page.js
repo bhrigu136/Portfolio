@@ -106,7 +106,7 @@ export default function Home() {
           <div className="timeline">
             <FadeIn className="tl-item">
               <div className="tl-dot current" />
-              <div className="tl-date">2026 – Present</div>
+              <div className="tl-date">January 2026 – August</div>
               <h3>Software Engineering Intern</h3>
               <div className="tl-org">Nessco Paper Cup Machine</div>
               <ul>
